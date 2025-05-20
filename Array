@@ -1,0 +1,8 @@
+Checking Square in another array
+arr1= [1,2,3,4], arr2 = [ 1,9,4,16]
+if a function call itself then there mustt be an end point
+
+function demo(){
+console.log('click')
+}
+
